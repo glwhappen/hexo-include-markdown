@@ -1,5 +1,5 @@
 {
-  "name": "hexo-include-markdown",
+  "name": "hexo-include-markdown-glwhappen",
   "version": "1.0.2",
   "main": "index",
   "dependencies": {},
@@ -7,12 +7,12 @@
   "devDependencies": {},
   "directories": {},
   "author": {
-    "email": "tea3gtinfo@gmail.com",
-    "name": "tea3",
-    "url": "https://photo-tea.com/"
+    "email": "1597721684@qq.com",
+    "name": "glwhappen",
+    "url": "https://www.glwsq.cn/"
   },
   "bugs": {
-    "url": "https://github.com/tea3/hexo-include-markdown/issues"
+    "url": "https://github.com/glwhappen/hexo-include-markdown/issues"
   },
   "keywords": [
     "hexo",
@@ -31,6 +31,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tea3/hexo-include-markdown.git"
+    "url": "git+https://github.com/glwhappen/hexo-include-markdown.git"
   }
 }

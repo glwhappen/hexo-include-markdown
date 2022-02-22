@@ -2,6 +2,9 @@
 
 This plugin for [Hexo](https://hexo.io/) can easily load another markdown files in markdown file .
 
+## bug修复
+修改了一个添加插件以后，在任意位置执行命令报错的bug
+
 ## Document
 
 [Hexoでmarkdownに外部マークダウンを読み込ませるプラグインを作った](https://photo-tea.com/p/17/hexo-include-markdown/)
