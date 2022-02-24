@@ -1,6 +1,6 @@
 {
   "name": "hexo-include-markdown-glwhappen",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "main": "index",
   "dependencies": {},
   "description": "Easily load markdown files in Markdown.",
